@@ -1,2 +1,9 @@
 # hello-word
-exercise
+Exercise
+
+## Learning markdown
+Some text
+
+### Smaller heading
+* Oh look
+* a list item!
